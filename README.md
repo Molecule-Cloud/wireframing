@@ -94,10 +94,42 @@ The payment stage causes 70% of booking abandonment. Wireframes help:
 - Optimize payment method selection
 - Standardize error recovery paths
 
-*Example: A/B testing wireframes showed moving the "Promo Code" field above payment increased conversion by 18%.
+*Example: A/B testing wireframes showed moving the "Promo Code" field above payment increased conversion by 18%.*
 
 ### **Implementation Benefits**
 1. **Backend Planning**: Wireframes reveal needed APIs early (e.g., real-time availability checks)
 2. **Legal Compliance**: Visually map where T&Cs/disclaimers appear
 3. **Localization**: Plan space for multi-language interfaces
 4. **Accessibility**: Ensure form labels and error messages meet WCAG standards
+
+### **Real-World Case Study: How Wireframing Saved a Hotel Booking System**  
+
+#### **The Scenario**  
+A travel tech startup was developing a **hotel booking platform** with complex features:  
+- Multi-room reservations  
+- Dynamic pricing based on occupancy  
+- Cross-sell for add-ons (airport transfers, tours)  
+
+Before development, the team created **low-fidelity wireframes** to validate the user flow.  
+
+#### **Usability Issues Uncovered**  
+1. **Calendar Confusion**  
+   - *Wireframe Revealed*: Users couldn’t distinguish between "available" (blue) and "selected" (green) dates due to poor color contrast in the initial design.  
+   - *Fix*: Added clear labels ("Available"/"Booked") and an icon-based legend.  
+
+2. **Hidden Fees Surprise**  
+   - *Wireframe Testing*: 70% of testers missed taxes/fees tucked under a tiny "i" icon.  
+   - *Fix*: Redesigned as an always-visible breakdown
+
+3. **Mobile Form Frustration**  
+   - *Issue*: The 12-field guest details form required horizontal scrolling on phones.  
+   - *Solution*: Split into accordion steps with auto-advance logic.  
+
+#### **Impact on the Final Product**  
+- **15% Higher Conversions**: Clear pricing and streamlined forms reduced abandonment.  
+- **Fewer Support Tickets**: Users no longer called about "missing" reservations (thanks to a redesigned confirmation screen with big, copyable booking codes).  
+- **Faster Development**: Engineers received pixel-perfect specs, cutting backend rework by 3 weeks.  
+
+#### **The Role of Wireframing in User-Friendly Design**  
+Wireframing plays a key role in creating a user-friendly design by allowing teams to plan the layout, structure, and flow of an interface before development begins. It helps identify and solve usability issues early, ensures that user needs are prioritized, and provides a clear, simple visual guide that keeps the design focused on functionality and ease of use.
+
