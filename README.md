@@ -43,7 +43,14 @@
 * High-fidelity wireframes are detailed, polished representations that closely resemble the final product. They incorporate actual content, precise spacing, typography, and sometimes even basic interactivity like clickable buttons. Designers create these wireframes using advanced tools like Figma during later stages of the design process. High-fidelity wireframes serve multiple purposes: they help stakeholders visualize the near-final product, enable user testing with realistic prototypes, and provide developers with accurate specifications for implementation.
 
 ### **When to Use Each Type**  
-* Low-fidelity wireframes are ideal during the initial phases of a project when the focus is on exploring ideas and establishing the foundational layout. They allow teams to make quick changes and pivot directions without wasted effort. In contrast, high-fidelity wireframes become valuable once the basic structure is validated and the team needs to refine details like visual hierarchy, micro-interactions, and responsive behavior. Transitioning from low to high fidelity ensures that time-intensive design work only begins after solving major usability questions.  
+* Low-fidelity wireframes are ideal during the initial phases of a project when the focus is on exploring ideas and establishing the foundational layout. They allow teams to make quick changes and pivot directions without wasted effort. In contrast, high-fidelity wireframes become valuable once the basic structure is validated and the team needs to refine details like visual hierarchy, micro-interactions, and responsive behavior. Transitioning from low to high fidelity ensures that time-intensive design work only begins after solving major usability questions.
+
+#### Type of Wireframe: High-Fidelity Wireframe
+The provided wireframe is a high-fidelity design, which closely resembles the final product in terms of layout, visual detail, and interactivity. It includes:
+* Real images of properties and locations
+* Typography and colors that match the final branding
+* Icons and buttons that are fully styled and positioned
+* Multiple screens showing user flows (e.g., splash screen, sign-in, login, home, details, reservation)
 
 
 ## **Wireframing Tools**  
