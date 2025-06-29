@@ -54,14 +54,14 @@ What makes Figma particularly valuable for wireframing is its real-time collabor
 
 ### **Alternative Wireframing Tools**  
 
-####* **Balsamiq**  
+* #### **Balsamiq**  
 * Specializing in rapid low-fidelity wireframing, Balsamiq mimics hand-drawn sketches with its deliberately rough visual style. This approach helps stakeholders focus on structure rather than aesthetics during early discussions. The drag-and-drop interface requires minimal learning, making it ideal for non-designers. However, it lacks Figma’s interactivity and high-fidelity capabilities.  
 
-####* **Adobe XD**  
+* #### **Adobe XD**  
 * Adobe’s dedicated UX/UI tool offers powerful vector design and prototyping features. Tight integration with other Creative Cloud apps like Photoshop and Illustrator benefits designers working across multiple media. While its auto-animate feature creates sophisticated micro-interactions, XD has lost market share to Figma due to weaker collaboration tools and no browser-based editing.  
 
-####* **Sketch**  
+* #### **Sketch**  
 * The original disruptor in digital design tools, Sketch remains popular among Mac users for its symbol libraries and artboard templates. However, its macOS exclusivity and lack of robust cloud collaboration (compared to Figma) have diminished its dominance. Plugins help bridge some functionality gaps, but Sketch works best for solo designers in Apple ecosystems.  
 
-####* **Traditional Pen and Paper**  
+* #### **Traditional Pen and Paper**  
 * Despite digital advancements, sketching wireframes by hand remains valuable for lightning-fast ideation. Physical sketching encourages creativity before committing to digital tools and requires no technical skills. Many teams begin projects with paper prototypes before digitizing the best concepts.  
